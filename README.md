@@ -13,7 +13,7 @@ The goal of this project is to accurately detect and segment different parts of 
 - Promising improvements in segmentation accuracy, particularly for Cytoplasm and Zona Pellucida.
 
 ## Project Structure
-
+```plaintext
 |-- code/
 | |-- config.py
 | |-- inference.py
