@@ -28,7 +28,7 @@ The goal of this project is to accurately detect and segment different parts of 
 |-- LICENSE
 |-- sample_images
 |-- README.md
-
+```
 ## Usage
 
 1. Explore the [`oocyte_semantic_segm_v3.ipynb`](oocyte_semantic_segm_v3.ipynb) Jupyter notebook for data preprocessing, model training, and inference.
